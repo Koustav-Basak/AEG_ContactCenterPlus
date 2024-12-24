@@ -21,3 +21,13 @@ WebUI.openBrowser(GlobalVariable.url)
 
 WebUI.maximizeWindow()
 
+WebUI.waitForPageLoad(3)
+
+WebUI.setText(findTestObject('Object Repository/LoginPafeObjectModel/input__username'), 'test@test.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginPafeObjectModel/input__password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
+
+WebUI.click(findTestObject('Object Repository/LoginPafeObjectModel/button_Sign In'))
+
+WebUI.verifyTextPresent('Welcome to the ContactCenter+', false)
+
