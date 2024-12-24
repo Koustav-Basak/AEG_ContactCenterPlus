@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validate with right uname and right pass, wrong uname with right pass, right uname with wroong pass as well as wrong iname with wrong pass</description>
+   <name>VerifyLoginFunctionality</name>
+   <tag>@functionalTesting</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4a0b0bf-6a70-4c67-b535-ad2b8afc4c8e</testCaseGuid>
+</TestCaseEntity>
