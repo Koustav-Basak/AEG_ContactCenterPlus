@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDashboardCardFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a5e0a48-eacd-4a44-a5ac-e394196e55bb</testCaseGuid>
+</TestCaseEntity>

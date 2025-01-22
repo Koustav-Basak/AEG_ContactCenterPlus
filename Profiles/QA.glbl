@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://magic-health-ccplus-qa.azurewebsites.net/'</initValue>
+      <initValue>'https://magic-health-ccplus-dev.azurewebsites.net/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

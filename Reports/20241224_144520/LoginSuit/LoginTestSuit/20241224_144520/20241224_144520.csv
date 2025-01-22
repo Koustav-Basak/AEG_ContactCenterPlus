@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LoginTestSuit,Chrome 131.0.0.0,,,24-12-2024 14:45:23,24-12-2024 14:45:57,34.159s,FAILED
+,,,,,,,
+Test Cases/ValidateLoginFunctionality/VerifyLoginFunctionality,Chrome 131.0.0.0,"validate with right uname and right pass, wrong uname with right pass, right uname with wroong pass as well as wrong iname with wrong pass",@functionalTesting,24-12-2024 14:45:23,24-12-2024 14:45:57,34.024s,FAILED
+openBrowser(url),Chrome 131.0.0.0,,,24-12-2024 14:45:23,24-12-2024 14:45:26,2.304s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,24-12-2024 14:45:26,24-12-2024 14:45:26,0.073s,PASSED
+waitForPageLoad(3),Chrome 131.0.0.0,,,24-12-2024 14:45:26,24-12-2024 14:45:26,0.177s,PASSED
+"setText(findTestObject(""Object Repository/LoginPafeObjectModel/input__username""), ""test@test.com"")",Chrome 131.0.0.0,,,24-12-2024 14:45:26,24-12-2024 14:45:57,31.206s,FAILED
