@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('ValidateLoginFunctionality/VerifyLoginFunctiona
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('LandingPagePOM/span_Operations'))
+WebUI.click(findTestObject('LandingPagePOM/operationsCard'))
 
 //  Get the current URL
 String currentUrl = WebUI.getUrl()

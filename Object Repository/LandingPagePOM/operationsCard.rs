@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Operations</name>
+   <name>operationsCard</name>
    <tag></tag>
    <elementGuidId>5da9a57a-7ad5-45f6-989c-5ff15da540ff</elementGuidId>
    <selectorCollection>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[2]/div/div/button/span</value>
+         <value>//button[@class=' agent_home']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>05a89a5f-3c9e-4656-838a-d26de38847ff</webElementGuid>
+      <webElementGuid>d3590379-ce01-4b37-b557-d11e6daa4391</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-text</value>
-      <webElementGuid>ee9673c1-4274-4a55-9c81-d41d3ebaf807</webElementGuid>
+      <webElementGuid>13a63e82-780f-4fab-8878-12d56f243054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Operations</value>
-      <webElementGuid>047fe0b7-ba25-40ff-a2c2-ade5c9ce8fff</webElementGuid>
+      <webElementGuid>a96dccb8-df65-4b10-b4f3-6fe7d4a1df3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;navigation-page d-flex justify-content-center align-items-center&quot;]/div[@class=&quot;landing_border-container&quot;]/div[@class=&quot;card welcome-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex button-container&quot;]/button[@class=&quot;operation_home&quot;]/span[@class=&quot;button-text&quot;]</value>
-      <webElementGuid>af4a9687-fd73-4df4-bd01-f6a493db5321</webElementGuid>
+      <webElementGuid>dac7fdbb-bade-45ab-98fd-2126fa16b231</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div/button/span</value>
-      <webElementGuid>7259d16f-746b-428d-9de1-3c51815e27b9</webElementGuid>
+      <webElementGuid>2216f536-beb1-4d47-91fc-f6ce34fff629</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to the ContactCenter+'])[1]/following::span[1]</value>
-      <webElementGuid>68e06e1c-115f-46fd-b74a-951db4e81d8e</webElementGuid>
+      <webElementGuid>1ad4838d-a264-4302-9f1e-9ff4371053a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent'])[1]/preceding::span[1]</value>
-      <webElementGuid>1364b49d-73ff-4403-8dd1-cb1c20cf15fb</webElementGuid>
+      <webElementGuid>262d394c-47a9-4dc3-9105-be935e3d92ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::span[2]</value>
-      <webElementGuid>a0a2dd1a-21b3-45cc-9c06-e241e0f3be18</webElementGuid>
+      <webElementGuid>649496f3-5c21-46ae-a177-fe225c66715a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Operations']/parent::*</value>
-      <webElementGuid>c3e7b502-8387-4bc2-b1e1-45326cca2e32</webElementGuid>
+      <webElementGuid>b0f8e8eb-128f-44cd-bc06-cc411658c4d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>8d2ce7bc-68a0-409a-a1c2-6926f644c47d</webElementGuid>
+      <webElementGuid>f412e85f-0683-41c3-beba-1fc37b748b20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Operations' or . = 'Operations')]</value>
-      <webElementGuid>254c2df0-eedf-402d-9527-9dcc06d6a555</webElementGuid>
+      <webElementGuid>7b015020-6b1d-438f-ba76-a8998e9f3184</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
